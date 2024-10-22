@@ -35,5 +35,6 @@ int main()
   gets(str);
 
   printf("%d\n", function(str));
+
   return 0;
 }
